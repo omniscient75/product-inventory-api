@@ -59,9 +59,7 @@ jspm_packages/
 .env.local
 .env.production
 
-# Railway deployment files
-.railway-url
-deployment-test-report.json
+
 
 # Test coverage reports
 coverage/
